@@ -1,0 +1,26 @@
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Web APi.exe
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Web APi.deps.json
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Web APi.runtimeconfig.json
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Web APi.runtimeconfig.dev.json
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Web APi.dll
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Web APi.pdb
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C# Practise\Web APi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.csprojAssemblyReference.cache
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.AssemblyInfoInputs.cache
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.AssemblyInfo.cs
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.csproj.CoreCompileInputs.cache
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.MvcApplicationPartsAssemblyInfo.cs
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.MvcApplicationPartsAssemblyInfo.cache
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.RazorTargetAssemblyInfo.cache
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.csproj.CopyComplete
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\staticwebassets\Web APi.StaticWebAssets.Manifest.cache
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\staticwebassets\Web APi.StaticWebAssets.xml
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.dll
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.pdb
+E:\C# Practise\Web APi\obj\Debug\netcoreapp3.1\Web APi.genruntimeconfig.cache
